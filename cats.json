@@ -23,6 +23,11 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-3"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/Tajixis/mv-data/66efc222b607d7885b1d8857ee372d48108d26f3/images/20170919_084500.jpg",
+			"name": "Kiwi",
+			"age": "3"
 		}
 	]
 }
